@@ -1,0 +1,8 @@
+textarea{
+  resize: vertical;
+  width: 500px;
+  height: 200px;
+}
+h1{
+  color: red;
+}
